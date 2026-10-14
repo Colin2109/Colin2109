@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Ich bin Colin, 16 Jahre jung und bin ein angehender Fachinformatiker für Anwendungsentwicklung aus Deutschland</p>
+<p align="left">Ich bin Colin, 17 Jahre jung und bin ein angehender Fachinformatiker für Anwendungsentwicklung aus Deutschland</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ In Ausbildung seit 01.09.2025<br>📚 Zurzeit lerne ich Python und SQL<br>🎯 Ziele: Softwareentwickler werden<br>🎲 Fun fact: Ich liebe Motorrad fahren</p>
+<p align="left">✨ In Ausbildung seit 01.09.2025<br>📚 Zurzeit lerne ich Python und SQL<br>🎯 Ziele: Cloud / KI / Softwareentwicklung / Automatisierung <br>🎲 Fun fact: Ich liebe Motorrad fahren</p>
 
 ###
 
